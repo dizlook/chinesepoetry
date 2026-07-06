@@ -41,4 +41,4 @@
 
 ## License
 
-[MIT](https://github.com/chinese-poetry/chinese-poetry/blob/master/LICENSE) 许可证。
+[MIT](https://github.com/chinese-poetry/chinese-poetry/blob/master/LICENSE) 许可证。forked from [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
