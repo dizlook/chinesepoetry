@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/chinese-poetry/chinese-poetry">
+  <a href="https://github.com/dizlook/chinesepoetry/">
       <img src="https://avatars3.githubusercontent.com/u/30764933?s=200&v=4" alt="chinese-poetry">
   </a>
 </p>
@@ -23,31 +23,6 @@
 <details>
   <summary><b>宋词高频词</b></summary>
   <img src="https://raw.githubusercontent.com/jackeygao/chinese-poetry/master/images/ci_words_topK.png" alt="宋词高频词" style="max-width:100%;">
-</details>
-
-<details>
-  <summary><b>宋词作者作品榜</b></summary>
-  <img src="https://raw.githubusercontent.com/jackeygao/chinese-poetry/master/images/ci_author_topK.png" alt="宋词作者作品榜" style="max-width:100%;">
-</details>
-
-<details>
-  <summary><b>唐诗高频词</b></summary>
-  <img src="https://raw.githubusercontent.com/jackeygao/chinese-poetry/master/images/tang_text_topK.png" alt="唐诗高频词" style="max-width:100%;">
-</details>
-
-<details>
-  <summary><b>唐诗作者作品榜</b></summary>
-  <img src="https://raw.githubusercontent.com/jackeygao/chinese-poetry/master/images/tang_author_topK.png" alt="唐诗作者作品榜" style="max-width:100%;">
-</details>
-
-<details>
-  <summary><b>宋诗高频词</b></summary>
-  <img src="https://raw.githubusercontent.com/jackeygao/chinese-poetry/master/images/song_text_topK.png" alt="宋诗高频词" style="max-width:100%;">
-</details>
-
-<details>
-  <summary><b>宋诗作者作品榜</b></summary>
-  <img src="https://raw.githubusercontent.com/jackeygao/chinese-poetry/master/images/song_author_topK.png" alt="宋诗作者作品榜" style="max-width:100%;">
 </details>
 
 ## 数据集
